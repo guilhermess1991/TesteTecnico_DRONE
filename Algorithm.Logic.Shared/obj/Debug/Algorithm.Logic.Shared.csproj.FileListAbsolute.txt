@@ -1,0 +1,4 @@
+C:\Projetos\Algorithm.Logic.Shared\bin\Debug\Algorithm.Logic.Shared.dll
+C:\Projetos\Algorithm.Logic.Shared\bin\Debug\Algorithm.Logic.Shared.pdb
+C:\Projetos\Algorithm.Logic.Shared\obj\Debug\Algorithm.Logic.Shared.dll
+C:\Projetos\Algorithm.Logic.Shared\obj\Debug\Algorithm.Logic.Shared.pdb

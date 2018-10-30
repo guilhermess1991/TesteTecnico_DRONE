@@ -1,0 +1,13 @@
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Tests.dll
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Tests.pdb
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.dll
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.pdb
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.dll.config
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.dll
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\obj\Debug\Algorithm.Logic.Tests.pdb
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Domain.dll
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Domain.pdb
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Shared.dll
+C:\Projetos\Algorithm.Logic\Algorithm.Logic.Tests\bin\Debug\Algorithm.Logic.Shared.pdb

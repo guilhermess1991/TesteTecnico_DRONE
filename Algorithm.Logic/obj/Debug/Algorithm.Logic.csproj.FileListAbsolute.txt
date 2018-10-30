@@ -1,0 +1,10 @@
+C:\Projetos\Algorithm.Logic\bin\Debug\Algorithm.Logic.dll.config
+C:\Projetos\Algorithm.Logic\bin\Debug\Algorithm.Logic.dll
+C:\Projetos\Algorithm.Logic\bin\Debug\Algorithm.Logic.pdb
+C:\Projetos\Algorithm.Logic\obj\Debug\Algorithm.Logic.dll
+C:\Projetos\Algorithm.Logic\obj\Debug\Algorithm.Logic.pdb
+C:\Projetos\Algorithm.Logic\bin\Debug\Algorithm.Logic.Domain.dll
+C:\Projetos\Algorithm.Logic\bin\Debug\Algorithm.Logic.Domain.pdb
+C:\Projetos\Algorithm.Logic\obj\Debug\Algorithm.Logic.csprojResolveAssemblyReference.cache
+C:\Projetos\Algorithm.Logic\bin\Debug\Algorithm.Logic.Shared.dll
+C:\Projetos\Algorithm.Logic\bin\Debug\Algorithm.Logic.Shared.pdb
